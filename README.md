@@ -26,22 +26,19 @@ omarchy-theme-install https://github.com/Grey-007/dragon-frost.git
 ```
 
 This will download the theme and make it work right away. 🚀❄️💙
-
-![Install Box](./assets/install-example.png)
-
 ---
 
 ## 🖼️ Screenshots 📸❄️✨
 Here are pictures that show you what the theme looks like. 😊💙❄️
 
 ### **1. Screenshot One**
-![Screenshot 1](./screenshots/1.png)
+![Screenshot 1](screenshot/SS1.png)
 
 ### **2. Screenshot Two**
-![Screenshot 2](./screenshots/2.png)
+![Screenshot 2](screenshot/SS2.png)
 
 ### **3. Screenshot Three**
-![Screenshot 3](./screenshots/3.png)
+![Screenshot 3](screenshot/SS3.png)
 
 ---
 
